@@ -282,7 +282,7 @@ const Resources = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2 text-gray-800">Download File</h3>
               <p className="mb-6 text-gray-600 text-sm">
-                Are you sure you want to download <strong className="text-gray-800">{downloadFile}</strong>?
+                Are you sure you want to download? <strong className="text-gray-800">{downloadFile}</strong>?
               </p>
               <div className="flex justify-center gap-3">
                 <button
